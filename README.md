@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, I'm Mickaël Arabian 👋
+
+!['mickaelarabian's github stats](https://github-readme-stats.vercel.app/api?username=mickaelarabian&show_icons=true&hide_border=true)
 
 <!--
 **mickaelarabian/mickaelarabian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
